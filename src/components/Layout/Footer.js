@@ -20,23 +20,23 @@ const Footer = () => {
         }}
       >
         <div>
-          <Link to="https://github.com/Rjjha/Apni-Dukaan-Frontend" target="_blank">
+          <Link to="https://github.com/ankitchouhan119" target="_blank">
             <AiFillGithub style={{fontSize:"40px",color:"#ab7a5f"}}/>
           </Link>
         </div>
         <div>
-          <Link to="https://www.linkedin.com/in/rajesh-jha-0aa47a205/" target="_blank">
+          <Link to="https://www.linkedin.com/in/ankit-chouhan-b41a87206/" target="_blank">
             <AiFillLinkedin style={{fontSize:"40px",color:"#ab7a5f"}} />
           </Link>
         </div>
         <div>
-          <Link to="https://www.instagram.com/rj_jhaji/" target="_blank">
+          <Link to="https://www.instagram.com/mr.ankiit_" target="_blank">
             <AiFillInstagram style={{fontSize:"40px",color:"#ab7a5f"}}/>
           </Link>
         </div>
         <div>
-          <Link to="https://github.com/Rjjha" target="_blank">
-            <AiFillYoutube style={{fontSize:"40px",color:"#ab7a5f"}}/>
+          <Link to="https://x.com/ankitchouhan119?t=KL8uNtutJ5w3e5MRko_fCg" target="_blank">
+            <AiFillTwitter style={{fontSize:"40px",color:"#ab7a5f"}}/>
           </Link>
         </div>
       </div>
