@@ -35,13 +35,13 @@ const About = () => {
             vaialible
           </p>
           <p className="mt-3 cont_p">
-            <BiMailSend /> : rj848jha@gmail.com
+            <BiMailSend /> : shankit119@gmail.com
           </p>
           <p className="mt-3 cont_p">
-            <BiPhoneCall /> : 8448162026
+            <BiPhoneCall /> : 9294557434
           </p>
           <p className="mt-3 cont_p">
-            <SlSocialLinkedin /> : <Link to="https://www.linkedin.com/in/rajesh-jha-0aa47a205/" className="text-decoration-none" style={{color:"#617d98"}}> Rajesh Jha</Link>
+            <SlSocialLinkedin /> : <Link to="https://www.linkedin.com/in/ankit-chouhan-b41a87206/" className="text-decoration-none" style={{color:"#617d98"}}> Ankit Chouhan</Link>
           </p>
           <p className="mt-3 cont_p">
             <PiAddressBookLight /> : ABV-IIITM Gwalior, M.P.
