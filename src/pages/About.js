@@ -27,7 +27,7 @@ const About = () => {
             </div>
             <div className="abt_bdr "></div>
             <p className="text-justify  abt_p">
-              Apni Dukaan was started by Rajesh Jha in July'23, with an aim
+              Apni Dukaan was started by Ankit Chouhan in July'23, with an aim
               to build a strong infrastructure for small bussiness owners to
               expand their reach, by bringing their products online. Today
               Apni Dukaan is used by hundreds of shop owners to expand their
