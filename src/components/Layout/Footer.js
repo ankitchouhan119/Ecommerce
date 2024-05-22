@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import {
   AiFillLinkedin,
-  AiFillYoutube,
+  AiFillTwitter,
   AiFillInstagram,
   AiFillGithub,
 } from "react-icons/ai";
