@@ -2,7 +2,6 @@ import React from "react";
 import { Link } from "react-router-dom";
 import {
   AiFillLinkedin,
-  
   AiFillInstagram,
   AiFillGithub,
 } from "react-icons/ai";
@@ -34,11 +33,6 @@ const Footer = () => {
             <AiFillInstagram style={{fontSize:"40px",color:"#ab7a5f"}}/>
           </Link>
         </div>
-        // <div>
-        //   <Link to="https://x.com/ankitchouhan119?t=KL8uNtutJ5w3e5MRko_fCg" target="_blank">
-        //     <AiFillYoutube style={{fontSize:"40px",color:"#ab7a5f"}}/>
-        //   </Link>
-        // </div>
       </div>
       <p className="text-center mt-4">
       <Link to="/">Home</Link>
