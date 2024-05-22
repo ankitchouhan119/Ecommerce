@@ -56,7 +56,7 @@ Step-by-step instructions on how to install the project locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Rjjha/Apni-Dukaan-frontend
+   https://github.com/ankitchouhan119/Ecommerce-frontend.git
    cd your-repo
 2. Install dependencies:
    ```bash
